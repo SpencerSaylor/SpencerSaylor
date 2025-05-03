@@ -12,7 +12,8 @@
 
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/SpencerSaylor/Preparing-AD-Infrastructure-in-Azure/blob/main/README.md)
-  - [Deploying Active Directory] 
+  - [Deploying Active Directory]
+  - [Enabling and Unlocking Accounts and Resetting Passwords]
 
 <h2>🤳Connect with me:</h2>
 
