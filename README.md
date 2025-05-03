@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SpencerSaylor/azure-network-protocols)
 
 - <b>Active Directory</b>
-  - [Setup Domain Controller in Azure](https://github.com/SpencerSaylor/Setup-Domain-Controller-in-Azure)
+  - [Preparing AD Infrastructure in Azure](https://github.com/SpencerSaylor/Preparing-AD-Infrastructure-in-Azure/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
