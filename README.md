@@ -14,7 +14,7 @@
   - [Preparing AD Infrastructure in Azure](https://github.com/SpencerSaylor/Preparing-AD-Infrastructure-in-Azure/blob/main/README.md)
   - [Deploying Active Directory](https://github.com/SpencerSaylor/Deploying-Active-Directory)
   - [Enabling and Unlocking Accounts and Resetting Passwords](https://github.com/SpencerSaylor/Enabling-and-Unlocking-Accounts-and-Resetting-Passwords)
-  - [Building an Intuition for DNS]
+  - [Building an Intuition for DNS](https://github.com/SpencerSaylor/Building-an-Intuition-for-DNS.git)
   - [Network File Shares and Permissions]
 
 <h2>🤳Connect with me:</h2>
