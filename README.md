@@ -15,7 +15,7 @@
   - [Deploying Active Directory](https://github.com/SpencerSaylor/Deploying-Active-Directory)
   - [Enabling and Unlocking Accounts and Resetting Passwords](https://github.com/SpencerSaylor/Enabling-and-Unlocking-Accounts-and-Resetting-Passwords)
   - [Building an Intuition for DNS](https://github.com/SpencerSaylor/Building-an-Intuition-for-DNS.git)
-  - [Network File Shares and Permissions]
+  - [Network File Shares and Permissions](https://github.com/SpencerSaylor/Network-File-Shares-and-Permissions.git)
 
 <h2>🤳Connect with me:</h2>
 
